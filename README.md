@@ -29,3 +29,19 @@ Roles & Responsibilities
 📜 View Vaccination Log: Access past vaccination records of your child.
 
 🔑 Change Contract: Update the child parents Contract.
+
+# 🛠️ Technologies Used
+
+🌐 Frontend: HTML, CSS, JavaScript
+
+🖥️ Backend: Spring Framework
+
+🛢️ Database: MySQL
+
+⚙️ Other: Hibernate, JPA
+
+# 🌟 Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your proposed changes. We welcome any improvements or new features to make this VaxiReminder Web App even better!🚀🙌
+
+# 📸 Screenshot
