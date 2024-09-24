@@ -32,13 +32,13 @@ Roles & Responsibilities
 
 # 🛠️ Technologies Used
 
-🌐 Frontend: HTML, CSS, JavaScript
-
-🖥️ Backend: Spring Framework
-
-🛢️ Database: MySQL
-
-⚙️ Other: Hibernate, JPA
+- 🌐 Frontend: HTML, CSS, JavaScript
+  
+- ⚙️ Backend: Spring Framework, Hibernate, JSP
+  
+- 🛢️ Database: MySQL (XAMPP)
+  
+- 🔒 Security: Session management for secure access control
 
 # 🌟 Contributing
 
