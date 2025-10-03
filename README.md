@@ -14,7 +14,7 @@ Roles & Responsibilities
 
 👶 Add/View/Delete Child: Manage child records in the system.
 
-📅 View Upcoming Vaccines (Next 30 Days): See all upcoming vaccinations for all children.
+📅 View Upcoming Vaccines (Next 7 Days): See all upcoming vaccinations for all children.
 
 🔑 Change Password: Update hospital account password.
 
