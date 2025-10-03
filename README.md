@@ -24,7 +24,7 @@ Roles & Responsibilities
 
 👁️ View Vaccines: See a list of available vaccines.
 
-📅 View Upcoming Vaccines (Next 30 Days): Track upcoming vaccinations for your child.
+📅 View Upcoming Vaccines (Next 7 Days): Track upcoming vaccinations for your child.
 
 📜 View Vaccination Log: Access past vaccination records of your child.
 
